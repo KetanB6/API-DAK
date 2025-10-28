@@ -1,6 +1,6 @@
 import { use, useState } from "react";
 import axios, { Axios } from "axios";
-import bgImage from "../src/assets/Dak.png";
+import bgImage from "../src/assets/Dak.webp";
 
 function App() {
   const [url, setUrl] = useState("")
