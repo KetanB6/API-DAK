@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(2, 2, 43);
+  background-image: url(/public/Dak.png);
+}
